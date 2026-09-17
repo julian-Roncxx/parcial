@@ -55,4 +55,7 @@ mvnw.cmd spring-boot:run
 
 ## 📸 Capturas
 
-_(Aquí pega las capturas de pantalla)_
+ <img width="920" height="229" alt="image" src="https://github.com/user-attachments/assets/ab21171b-5fda-49d9-bc7b-de30285d42bc" />
+ <img width="920" height="466" alt="image" src="https://github.com/user-attachments/assets/4677f10c-103c-4079-b96e-bbfb7407902a" />
+
+
