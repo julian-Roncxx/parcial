@@ -2,7 +2,7 @@
 
 API REST desarrollada con **Java 17 + Spring Boot 3** para listar usuarios desde una base de datos H2 en memoria.
 
-## 🚀 Tecnologías
+##  Tecnologías
 
 - Java 17
 - Spring Boot 3.2.5
