@@ -10,7 +10,8 @@ API REST desarrollada con **Java 17 + Spring Boot 3** para listar usuarios desde
 - Spring Data JPA
 - H2 Database
 - Maven
-
+- request
+- 
 ## 📂 Arquitectura en capas
 
 ```
